@@ -156,3 +156,450 @@ Received Import Request.
 Start importing Assets/Baker House/Textures/Barrel.tif using Guid(815c272c30618ea459bbe982311efd84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29cf8ebffee8f3d5721883427cc1b7c2') in 0.004166 seconds 
   Import took 0.005624 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 275.057358 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.001680 seconds 
+  Import took 0.003717 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.745387 seconds.
+  path: Assets/New Material.mat
+  artifactKey: Guid(237b65d7b25f920418fe63fe77966715) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Material.mat using Guid(237b65d7b25f920418fe63fe77966715) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be608f3723b11e5b6382f874833baf66') in 0.005771 seconds 
+  Import took 0.008037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1070.770373 seconds.
+  path: Assets/New Material.mat
+  artifactKey: Guid(237b65d7b25f920418fe63fe77966715) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Material.mat using Guid(237b65d7b25f920418fe63fe77966715) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e43faefe239a5c6a7150900d962e902') in 0.005726 seconds 
+  Import took 0.007677 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 539.244164 seconds.
+  path: Assets/Baker House/Models/Baker_house.FBX
+  artifactKey: Guid(e36cf732b73e87f458b5e69d2c1f6417) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Baker House/Models/Baker_house.FBX using Guid(e36cf732b73e87f458b5e69d2c1f6417) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0228dcbd95268b39bea84a9322213c8b') in 0.008959 seconds 
+  Import took 0.011023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 269.212349 seconds.
+  path: Assets/Baker House/Models/New Lighting Settings.lighting
+  artifactKey: Guid(9721b0a6c6d32e1478d8ef691a4fc1fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Baker House/Models/New Lighting Settings.lighting using Guid(9721b0a6c6d32e1478d8ef691a4fc1fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '540eb5c69e3c9ceb1cb77210e3eafc2a') in 0.003143 seconds 
+  Import took 0.005220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Baker House/Models/New Lighting Settings.lighting
+  artifactKey: Guid(9721b0a6c6d32e1478d8ef691a4fc1fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Baker House/Models/New Lighting Settings.lighting using Guid(9721b0a6c6d32e1478d8ef691a4fc1fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '540eb5c69e3c9ceb1cb77210e3eafc2a') in 0.001799 seconds 
+  Import took 0.003164 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.694637 seconds.
+  path: Assets/New Lighting Settings.lighting
+  artifactKey: Guid(9721b0a6c6d32e1478d8ef691a4fc1fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Lighting Settings.lighting using Guid(9721b0a6c6d32e1478d8ef691a4fc1fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63e5f9186815672a037b22a76e09b393') in 0.002027 seconds 
+  Import took 0.004078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.162328 seconds.
+  path: Assets/New Lighting Settings.lighting
+  artifactKey: Guid(9721b0a6c6d32e1478d8ef691a4fc1fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Lighting Settings.lighting using Guid(9721b0a6c6d32e1478d8ef691a4fc1fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ae8a9ff63482edda11354cad1c5cec6') in 0.001824 seconds 
+  Import took 0.003596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2569.860583 seconds.
+  path: Assets/Baker House/Models/Barrel.FBX
+  artifactKey: Guid(1660c7ca8648e464a9b6f3b6db92f1ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Baker House/Models/Barrel.FBX using Guid(1660c7ca8648e464a9b6f3b6db92f1ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5811706006f95eef4910e243b5929de') in 0.010909 seconds 
+  Import took 0.012994 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009936 seconds.
+  path: Assets/Baker House/Models/Barrel.FBX
+  artifactKey: Guid(1660c7ca8648e464a9b6f3b6db92f1ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Baker House/Models/Barrel.FBX using Guid(1660c7ca8648e464a9b6f3b6db92f1ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5811706006f95eef4910e243b5929de') in 0.008070 seconds 
+  Import took 0.009930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1100.196844 seconds.
+  path: Assets/LowpolySimpleHouse/PostProcessing/CC.asset
+  artifactKey: Guid(9e3b47a711a2c764dad720a366aae97d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolySimpleHouse/PostProcessing/CC.asset using Guid(9e3b47a711a2c764dad720a366aae97d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '508ce010c5966055332dc422c3fb0b8b') in 0.005343 seconds 
+  Import took 0.007385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.901818 seconds.
+  path: Assets/Scenes/Main.unity
+  artifactKey: Guid(b6c459657c1f865438bf90e08f0445f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Main.unity using Guid(b6c459657c1f865438bf90e08f0445f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed2682409206900ada996a7954e81d1d') in 0.002011 seconds 
+  Import took 0.003867 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.563697 seconds.
+  path: Assets/LowpolySimpleHouse/Assets/Demo Scene/Demo.unity
+  artifactKey: Guid(5425b1cf1a6d649409960566cd321c18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolySimpleHouse/Assets/Demo Scene/Demo.unity using Guid(5425b1cf1a6d649409960566cd321c18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '294660089d0886c68f537acc2d37d727') in 0.001965 seconds 
+  Import took 0.003661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 235.996736 seconds.
+  path: Assets/New Material 1.mat
+  artifactKey: Guid(42fdb6bc36495cc4fab426ecd7c523be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Material 1.mat using Guid(42fdb6bc36495cc4fab426ecd7c523be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85b0d24ac445c838192506db27de0d50') in 0.006244 seconds 
+  Import took 0.008541 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.431929 seconds.
+  path: Assets/New Material 1.mat
+  artifactKey: Guid(42fdb6bc36495cc4fab426ecd7c523be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Material 1.mat using Guid(42fdb6bc36495cc4fab426ecd7c523be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5491214473afa030b1ada0b097c1ddac') in 0.005471 seconds 
+  Import took 0.007374 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003350 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.626 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1485 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.4 MB.
+System memory in use after: 75.4 MB.
+
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 1950.
+Total: 2.017900 ms (FindLiveObjects: 0.141400 ms CreateObjectMapping: 0.040900 ms MarkObjects: 1.390900 ms  DeleteObjects: 0.443800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 799.616977 seconds.
+  path: Assets/LowpolySimpleHouse/Assets/Mesh/Prop_Axe.fbx
+  artifactKey: Guid(48d827f9d61942740847ebd088f8814c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolySimpleHouse/Assets/Mesh/Prop_Axe.fbx using Guid(48d827f9d61942740847ebd088f8814c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fef72c48628483c32d683f0532cf7534') in 0.059778 seconds 
+  Import took 0.062002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/LowpolySimpleHouse/Assets/Mesh/Trees_Pink.fbx
+  artifactKey: Guid(e5ec036b07dabf34da49270ca169c61e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolySimpleHouse/Assets/Mesh/Trees_Pink.fbx using Guid(e5ec036b07dabf34da49270ca169c61e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08a6461af7e2945a0e62fae4ecc3853f') in 0.008901 seconds 
+  Import took 0.010638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/LowpolySimpleHouse/Assets/Mesh/Prop_WoodenWheelBarrow.fbx
+  artifactKey: Guid(68af6c02562b045448432aed1e01b819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolySimpleHouse/Assets/Mesh/Prop_WoodenWheelBarrow.fbx using Guid(68af6c02562b045448432aed1e01b819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9a6976c50587ec59a839847a2971878') in 0.010385 seconds 
+  Import took 0.011922 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/LowpolySimpleHouse/Assets/Mesh/Prop_Barrel.fbx
+  artifactKey: Guid(d4fdbb823575e6843a51c73cd6f70d91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolySimpleHouse/Assets/Mesh/Prop_Barrel.fbx using Guid(d4fdbb823575e6843a51c73cd6f70d91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f9118e55bc89bf6ead8653fbcc9c629') in 0.010514 seconds 
+  Import took 0.012232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/LowpolySimpleHouse/Assets/Mesh/Prop_Stone_1.fbx
+  artifactKey: Guid(f0a8421f9f89a094b82cb1e5f2392656) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolySimpleHouse/Assets/Mesh/Prop_Stone_1.fbx using Guid(f0a8421f9f89a094b82cb1e5f2392656) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b6e207d1844860ef041f11e1ed38b53') in 0.008911 seconds 
+  Import took 0.010664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/LowpolySimpleHouse/PostProcessing/Utilities/CustomMotionTexture/Models/WheelMovecs.FBX
+  artifactKey: Guid(c4abfbff3b9d442f4b435849d2d2124c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolySimpleHouse/PostProcessing/Utilities/CustomMotionTexture/Models/WheelMovecs.FBX using Guid(c4abfbff3b9d442f4b435849d2d2124c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a379113352334ce3867a4a1a11f07615') in 0.007615 seconds 
+  Import took 0.009090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/LowpolySimpleHouse/Assets/Mesh/Prop_Fence.fbx
+  artifactKey: Guid(1901044d9333fa04486b1fc98790fc12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolySimpleHouse/Assets/Mesh/Prop_Fence.fbx using Guid(1901044d9333fa04486b1fc98790fc12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98b03325a6e2d0c0fbf6214e0ec2cc34') in 0.010776 seconds 
+  Import took 0.012450 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/LowpolySimpleHouse/Assets/Mesh/Prop_House_TopDeco.fbx
+  artifactKey: Guid(960cafaf3ae66054c9615cbdcdd80edb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolySimpleHouse/Assets/Mesh/Prop_House_TopDeco.fbx using Guid(960cafaf3ae66054c9615cbdcdd80edb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dc94642b84542c868452d95056d3650') in 0.009091 seconds 
+  Import took 0.010892 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/LowpolySimpleHouse/Assets/Mesh/Trees_Yellow.fbx
+  artifactKey: Guid(58c35e724ac4fdd40aca97f1d1e3243d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolySimpleHouse/Assets/Mesh/Trees_Yellow.fbx using Guid(58c35e724ac4fdd40aca97f1d1e3243d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76cfea9a77d1a814d4c2bef406ce0835') in 0.008886 seconds 
+  Import took 0.010614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000111 seconds.
+  path: Assets/LowpolySimpleHouse/Assets/Mesh/Prop_Stone_2.fbx
+  artifactKey: Guid(0d8467922afafee44ba75a603f5fb395) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolySimpleHouse/Assets/Mesh/Prop_Stone_2.fbx using Guid(0d8467922afafee44ba75a603f5fb395) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38fb3c7871e3dec0d8a59964e4ea0a97') in 0.009123 seconds 
+  Import took 0.010788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/LowpolySimpleHouse/Assets/Mesh/Prop_Mushroom.fbx
+  artifactKey: Guid(3b524ca010a997144a42a23047fc06a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolySimpleHouse/Assets/Mesh/Prop_Mushroom.fbx using Guid(3b524ca010a997144a42a23047fc06a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84b634a65e0b5e8246bd90a56f92bf38') in 0.009657 seconds 
+  Import took 0.011437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/LowpolySimpleHouse/Assets/Mesh/Prop_Wood_2.fbx
+  artifactKey: Guid(36add93a1e503574db4bd3fc07e0caeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolySimpleHouse/Assets/Mesh/Prop_Wood_2.fbx using Guid(36add93a1e503574db4bd3fc07e0caeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c08002b1af005deb4687981f340a2b15') in 0.009135 seconds 
+  Import took 0.010771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/LowpolySimpleHouse/Assets/Mesh/Prop_Wood_1.fbx
+  artifactKey: Guid(ab2423264e964e64386cd151dab6e852) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolySimpleHouse/Assets/Mesh/Prop_Wood_1.fbx using Guid(ab2423264e964e64386cd151dab6e852) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '922730b8b3f5f080217db926d782269b') in 0.009904 seconds 
+  Import took 0.011454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/LowpolySimpleHouse/Assets/Mesh/Prop_House.fbx
+  artifactKey: Guid(eed70b2da2072ec41a26f3e955d55554) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolySimpleHouse/Assets/Mesh/Prop_House.fbx using Guid(eed70b2da2072ec41a26f3e955d55554) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7886e18ba84eff02159b17ad7240b601') in 0.013680 seconds 
+  Import took 0.015529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/LowpolySimpleHouse/Assets/Mesh/Prop_Stone_3.fbx
+  artifactKey: Guid(35ba7369a3abf47489aa78611bc874f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolySimpleHouse/Assets/Mesh/Prop_Stone_3.fbx using Guid(35ba7369a3abf47489aa78611bc874f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c06c0fcbb2f763e6b6e3586ad658cdf0') in 0.010127 seconds 
+  Import took 0.011958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/LowpolySimpleHouse/Assets/Mesh/Prop_Crate.fbx
+  artifactKey: Guid(2582dbcf83c582645b37ee67b8f31d8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolySimpleHouse/Assets/Mesh/Prop_Crate.fbx using Guid(2582dbcf83c582645b37ee67b8f31d8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f75d0f243c28c4bd8aa7e9b1f4d390f') in 0.010789 seconds 
+  Import took 0.012410 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/LowpolySimpleHouse/Assets/Mesh/Prop_TreeTrunk_Cutoff.fbx
+  artifactKey: Guid(fb9d37062ac7d0a43ab64fdc437b7fce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolySimpleHouse/Assets/Mesh/Prop_TreeTrunk_Cutoff.fbx using Guid(fb9d37062ac7d0a43ab64fdc437b7fce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72b69bfa355234092e999e236326dfe5') in 0.010618 seconds 
+  Import took 0.012197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/LowpolySimpleHouse/Assets/Mesh/Trees_Green.fbx
+  artifactKey: Guid(aeaad255f6dbcb943ad99e9a5ec9e418) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolySimpleHouse/Assets/Mesh/Trees_Green.fbx using Guid(aeaad255f6dbcb943ad99e9a5ec9e418) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5aa8477c4e85be22ce60e62be4c5e4ed') in 0.008891 seconds 
+  Import took 0.010580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.301297 seconds.
+  path: Assets/LowpolySimpleHouse/Assets/Mesh/Prop_Mushroom.fbx
+  artifactKey: Guid(3b524ca010a997144a42a23047fc06a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolySimpleHouse/Assets/Mesh/Prop_Mushroom.fbx using Guid(3b524ca010a997144a42a23047fc06a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cc7fdbfb2089d000adc1fedffc70e6b') in 0.008902 seconds 
+  Import took 0.011047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/LowpolySimpleHouse/Assets/Mesh/Trees_Pink.fbx
+  artifactKey: Guid(e5ec036b07dabf34da49270ca169c61e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolySimpleHouse/Assets/Mesh/Trees_Pink.fbx using Guid(e5ec036b07dabf34da49270ca169c61e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f1e67eb4e5a45e1904894da785965e2') in 0.008433 seconds 
+  Import took 0.010071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Assets/LowpolySimpleHouse/Assets/Mesh/Prop_WoodenWheelBarrow.fbx
+  artifactKey: Guid(68af6c02562b045448432aed1e01b819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolySimpleHouse/Assets/Mesh/Prop_WoodenWheelBarrow.fbx using Guid(68af6c02562b045448432aed1e01b819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '689fcd71d66d8ea9dbd69b1ba696f43a') in 0.009271 seconds 
+  Import took 0.010986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/LowpolySimpleHouse/Assets/Mesh/Prop_Stone_1.fbx
+  artifactKey: Guid(f0a8421f9f89a094b82cb1e5f2392656) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolySimpleHouse/Assets/Mesh/Prop_Stone_1.fbx using Guid(f0a8421f9f89a094b82cb1e5f2392656) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1b6195ff9c267d8755d403b6b7391ac') in 0.009898 seconds 
+  Import took 0.011655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000114 seconds.
+  path: Assets/LowpolySimpleHouse/PostProcessing/Utilities/CustomMotionTexture/Models/WheelMovecs.FBX
+  artifactKey: Guid(c4abfbff3b9d442f4b435849d2d2124c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolySimpleHouse/PostProcessing/Utilities/CustomMotionTexture/Models/WheelMovecs.FBX using Guid(c4abfbff3b9d442f4b435849d2d2124c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99b0011f498376b7e6036f7906218225') in 0.007680 seconds 
+  Import took 0.009595 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/LowpolySimpleHouse/Assets/Mesh/Trees_Yellow.fbx
+  artifactKey: Guid(58c35e724ac4fdd40aca97f1d1e3243d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolySimpleHouse/Assets/Mesh/Trees_Yellow.fbx using Guid(58c35e724ac4fdd40aca97f1d1e3243d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92e98fdcc33b5104c53d527bdfef9b9c') in 0.008557 seconds 
+  Import took 0.010219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/LowpolySimpleHouse/Assets/Mesh/Prop_Stone_2.fbx
+  artifactKey: Guid(0d8467922afafee44ba75a603f5fb395) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolySimpleHouse/Assets/Mesh/Prop_Stone_2.fbx using Guid(0d8467922afafee44ba75a603f5fb395) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40961b589a5f22dc235d1c6666f13ab1') in 0.008951 seconds 
+  Import took 0.010522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/LowpolySimpleHouse/Assets/Mesh/Prop_Wood_2.fbx
+  artifactKey: Guid(36add93a1e503574db4bd3fc07e0caeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolySimpleHouse/Assets/Mesh/Prop_Wood_2.fbx using Guid(36add93a1e503574db4bd3fc07e0caeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '398f6966609317184375d815ef3f7472') in 0.009140 seconds 
+  Import took 0.010717 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/LowpolySimpleHouse/Assets/Mesh/Prop_Wood_1.fbx
+  artifactKey: Guid(ab2423264e964e64386cd151dab6e852) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolySimpleHouse/Assets/Mesh/Prop_Wood_1.fbx using Guid(ab2423264e964e64386cd151dab6e852) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ffd80597377a691f60ff31031bc3ecd') in 0.008658 seconds 
+  Import took 0.010571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/LowpolySimpleHouse/Assets/Mesh/Prop_Stone_3.fbx
+  artifactKey: Guid(35ba7369a3abf47489aa78611bc874f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolySimpleHouse/Assets/Mesh/Prop_Stone_3.fbx using Guid(35ba7369a3abf47489aa78611bc874f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'caa61662d3033d486b8c6c0c1cc7881c') in 0.011245 seconds 
+  Import took 0.012981 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/LowpolySimpleHouse/Assets/Mesh/Prop_TreeTrunk_Cutoff.fbx
+  artifactKey: Guid(fb9d37062ac7d0a43ab64fdc437b7fce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolySimpleHouse/Assets/Mesh/Prop_TreeTrunk_Cutoff.fbx using Guid(fb9d37062ac7d0a43ab64fdc437b7fce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49c832f6a4c1787ddfbd97ca4e5e3f50') in 0.008858 seconds 
+  Import took 0.010649 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/LowpolySimpleHouse/Assets/Mesh/Trees_Green.fbx
+  artifactKey: Guid(aeaad255f6dbcb943ad99e9a5ec9e418) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolySimpleHouse/Assets/Mesh/Trees_Green.fbx using Guid(aeaad255f6dbcb943ad99e9a5ec9e418) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d3053a4ea005381ff67c751fcf0c4fb') in 0.008510 seconds 
+  Import took 0.010238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Assets/LowpolySimpleHouse/Assets/Mesh/Prop_TreeTrunk_Cutoff.fbx
+  artifactKey: Guid(fb9d37062ac7d0a43ab64fdc437b7fce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolySimpleHouse/Assets/Mesh/Prop_TreeTrunk_Cutoff.fbx using Guid(fb9d37062ac7d0a43ab64fdc437b7fce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49c832f6a4c1787ddfbd97ca4e5e3f50') in 0.009134 seconds 
+  Import took 0.010791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.452961 seconds.
+  path: Assets/LowpolySimpleHouse/Assets/Mesh/Prop_Axe.fbx
+  artifactKey: Guid(48d827f9d61942740847ebd088f8814c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolySimpleHouse/Assets/Mesh/Prop_Axe.fbx using Guid(48d827f9d61942740847ebd088f8814c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ef57e150348681ad09bfba8b10da4ff') in 0.010302 seconds 
+  Import took 0.012751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000102 seconds.
+  path: Assets/LowpolySimpleHouse/Assets/Mesh/Prop_Barrel.fbx
+  artifactKey: Guid(d4fdbb823575e6843a51c73cd6f70d91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolySimpleHouse/Assets/Mesh/Prop_Barrel.fbx using Guid(d4fdbb823575e6843a51c73cd6f70d91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0312b6645945976823eb3c74ee9de5a2') in 0.008328 seconds 
+  Import took 0.009845 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/LowpolySimpleHouse/Assets/Mesh/Prop_Fence.fbx
+  artifactKey: Guid(1901044d9333fa04486b1fc98790fc12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolySimpleHouse/Assets/Mesh/Prop_Fence.fbx using Guid(1901044d9333fa04486b1fc98790fc12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81853b017db0c7040862802c9aed5d89') in 0.008486 seconds 
+  Import took 0.010136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/LowpolySimpleHouse/Assets/Mesh/Prop_House_TopDeco.fbx
+  artifactKey: Guid(960cafaf3ae66054c9615cbdcdd80edb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolySimpleHouse/Assets/Mesh/Prop_House_TopDeco.fbx using Guid(960cafaf3ae66054c9615cbdcdd80edb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bea0bfacfbf0729ec260f6efdcb8e86b') in 0.008257 seconds 
+  Import took 0.009732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000103 seconds.
+  path: Assets/LowpolySimpleHouse/Assets/Mesh/Prop_House.fbx
+  artifactKey: Guid(eed70b2da2072ec41a26f3e955d55554) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolySimpleHouse/Assets/Mesh/Prop_House.fbx using Guid(eed70b2da2072ec41a26f3e955d55554) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6163eb542f95c2812808f6f3b98ca0ea') in 0.010676 seconds 
+  Import took 0.012230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/LowpolySimpleHouse/Assets/Mesh/Prop_Crate.fbx
+  artifactKey: Guid(2582dbcf83c582645b37ee67b8f31d8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolySimpleHouse/Assets/Mesh/Prop_Crate.fbx using Guid(2582dbcf83c582645b37ee67b8f31d8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d737ecd716707bd3ee7a619b60d73f7') in 0.007791 seconds 
+  Import took 0.009327 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
